@@ -1,0 +1,7 @@
+body{background:#f4f4f4;font-family:Arial;padding:30px;}
+.card,.form-box{background:#fff;padding:20px;border-radius:10px;width:350px;margin:auto;
+box-shadow:0 2px 6px rgba(0,0,0,.2);}
+.form-box{width:400px;}
+.input{width:100%;padding:7px;margin-top:5px;border-radius:6px;border:1px solid #ccc;}
+.btn{padding:10px 20px;background:#007bff;color:white;border:none;border-radius:6px;cursor:pointer;}
+.btn:hover{background:#0056b3;}
